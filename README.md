@@ -1,7 +1,13 @@
 # Digital Forensics
 <h2>Scenario</h2>
+On January 21, 2016, Digitech Inc. was called in to assist Pure Gold Credit Union (PGCU)) case involving the conspiracy associated with the theft of funds.
+<ul>
+  <li>Peter is a suspect in the aforementioned conspiracy. </li>
+  <li>As part of the investigation, Peter’s iPhone was taken into custody. </li>
+  <li>Digitech, Inc. was tasked with investigating evidence relevant to the aforementioned conspiracy.</li>
+</ul>
 <br>
-<br>
+In this activity, I was tasked to work as a forensics investigators conducting an investigation into the Pure Gold Credit Union Case. The following deliverable outlined the results found over the course of the project.
 <h2>Instructions</h2>
 You've examined and documented quite a bit of information from the iPhone image file. Now, you will use that documentation to build a final report. Before you complete your report, there is still some additional evidence to analyze. Since the internal investigators knew that Peter was close with Rosie, they collected Rosie's phone for your to analyze to determine if she in fact a co-conspirator.
 <br>
